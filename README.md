@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeeYunSung
 - 👀 I’m interested in App and Game development
-- 🌱 I’m currently learning Java/C#/C++ Language, Android Programing, Unity Engin, Algorithm
+- 🌱 I’m currently learning Android Programing(Java, Kotline), Unity Engine(C#), Algorithm(C++) and SQL
 - 💞️ I’m looking to collaborate on Coding Study
 - 📫 How to reach me email "dldbstjd6350@gmail.com"
 - https://i-believe-in-me.tistory.com/
